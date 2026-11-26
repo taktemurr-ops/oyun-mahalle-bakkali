@@ -16,7 +16,7 @@ dependencies:
   simulasyon_motoru:
     git:
       url: https://github.com/taktemurr-ops/simulasyon-motoru
-      ref: 8deb9855d8373041ed9cfafadfa099136656dd8f
+      ref: ed00dd873a2562c6effd054472b6adc6dfdb66ed
 
 dev_dependencies:
   flutter_test:
